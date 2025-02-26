@@ -23,7 +23,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: rgb(255, 255, 255);
+    color: rgb(255, 255, 256);
     text-align: center;
     position: relative;
 }
